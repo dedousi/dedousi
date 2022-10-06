@@ -6,9 +6,9 @@
 <br>
 <div align=center>
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=mothsfollow&theme=git-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="200" height="100"/>
+        <img src="https://streak-stats.demolab.com?user=mothsfollow&theme=git-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="300" height="200"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mothsfollow&layout=compact&theme=great-gatsby&langs_count=8&hide_border=false&border_color=f05033" width="200" height="100"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mothsfollow&layout=compact&theme=great-gatsby&langs_count=8&hide_border=false&border_color=f05033" width="300" height="200"/>
     </a>
 </ div>
