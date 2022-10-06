@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**mothsfollow/mothsfollow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7940E&center=true&vCenter=true&width=435&lines=Hello+World%2C+I+am+Lemon." alt="Typing SVG" />
+    </a>
+</h1>
+<br>
+<p align=center>
+    <div align=center>
+        <a href="https://git.io/streak-stats">
+            <img src="https://streak-stats.demolab.com?user=mothsfollow&theme=git-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=mothsfollow&show_icons=true&theme=midnight-purple" />
+        </a>
+    </div>
+</p>
