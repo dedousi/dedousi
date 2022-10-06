@@ -9,6 +9,6 @@
         <img src="https://streak-stats.demolab.com?user=mothsfollow&theme=git-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mothsfollow&layout=compact&theme=great-gatsby&hide_border=false" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mothsfollow&layout=compact&theme=great-gatsby&langs_count=8&hide_border=false&border_color=ac3924" />
     </a>
 </ div>
