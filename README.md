@@ -11,4 +11,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mothsfollow&layout=compact&theme=great-gatsby&langs_count=8&hide_border=false&border_color=f05033" width="300" height="200"/>
     </a>
+    <a>
+      <img align="center" src="https://avatars.githubusercontent.com/u/105596679?s=400&u=f3ffd83a4382c969fb3e863cfa8e8c98fd2e83d4&v=4"  width="300" height="200"/>
+    </a>
 </ div>
