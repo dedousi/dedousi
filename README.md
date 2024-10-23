@@ -1,3 +1,7 @@
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedousi&layout=donut-vertical" alt="Top Langs">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dedousi&layout=donut-vertical"
+      media="(prefers-color-scheme: dark)
+    /> 
 </div>
