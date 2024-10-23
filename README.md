@@ -5,3 +5,5 @@
 <a href="(https://www.linkedin.com/in/lemonia-dedousi)">
     <img src="https://i.sstatic.net/gVE0j.png" width="20" height="20" />
 </a>
+
+<i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i>
